@@ -1,5 +1,5 @@
 # Conway's Game of Life
-Windows implementation of game in Python in which you can
+Windows implementation of this game in Python in which you can
 * create and run any game configuration
 * move around the field
 * start/pause the game
