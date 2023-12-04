@@ -37,11 +37,11 @@ Windows implementation of this game in Python in which you can
 ### Notes
 This implementation is only for Windows, but it doesn’t seem to take much time to adapt to other platforms. 
 
-You can download EXE file from Releases or run main.py after installing the necessary libraries by this command:
+You can download the EXE file from Releases or run main.py after installing the necessary libraries by this command:
 ```bash
 pip install pygame; pip install pypiwin32
 ```
-I used pyinstaller to create the main.exe file by main.spec and following commands:
+I used pyinstaller to create the EXE file by main.spec and following commands:
 ```bash
 pip install pyinstaller
 ```
