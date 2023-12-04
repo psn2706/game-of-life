@@ -25,6 +25,7 @@ Windows implementation of game in Python in which you can
 | Upper/lower arrow | switch between patterns |
 | R | rotate the pattern 90 degrees clockwise | 
 | E or button on the top right | toggle eraser mode on/off |  
+| G | toggle grid mode on/off | 
 | 1, 2, 3, 4, 5, 0 | drawing colors (0 is false: i.e. does not participate in the game) |
 | K , CTRL+K | clear living / false cells |
 | I or the button on the top right | inventory with your patterns (the last one opened is used) |
