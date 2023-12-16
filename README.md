@@ -21,7 +21,7 @@ Windows implementation of this game in Python in which you can
 | Scrolling the mouse wheel | increase/decrease the field |  
 | Spacebar | start/pause Conway's game |  
 | Left/right arrow | slow down/speed up the game twice |  
-| P or middle mouse button | toggle pattern mode on/off |
+| P or MMB | toggle pattern mode on/off |
 | Upper/lower arrow | switch between patterns |
 | R | rotate the pattern 90 degrees clockwise | 
 | E or button on the top right | toggle eraser mode on/off |  
@@ -29,7 +29,7 @@ Windows implementation of this game in Python in which you can
 | 1, 2, 3, 4, 5, 0 | drawing colors (0 is false: i.e. does not participate in the game) |
 | K , CTRL+K | clear living / false cells |
 | I or the button on the top right | inventory with your patterns (the last one opened is used) |
-| CTRL+S or the button on the top right | save the field and patterns | 
+| CTRL+S or button on the top right | save the field and patterns | 
 | CTRL+Z | roll back to the last save |
 | V, B | time travel (note: it's not saved) |  
 | H | change the hiding mode of icons (in the field) |  
