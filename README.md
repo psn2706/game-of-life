@@ -28,7 +28,7 @@ Windows implementation of this game in Python in which you can
 | G | toggle grid mode on/off | 
 | 1, 2, 3, 4, 5, 0 | drawing colors (0 is false: i.e. does not participate in the game) |
 | K , CTRL+K | clear living / false cells |
-| I or the button on the top right | inventory with your patterns (the last one opened is used) |
+| I or button on the top right | inventory with your patterns (the last one opened is used) |
 | CTRL+S or button on the top right | save the field and patterns | 
 | CTRL+Z | roll back to the last save |
 | V, B | time travel (note: it's not saved) |  
